@@ -8,7 +8,7 @@ export default function ProfileCard({ period, setPeriod }) {
         <div className="profile-text">
           <p>Report for</p>
           <h1>
-            David<br />Papizhuk
+            Danylo<br />Hryhorenko
           </h1>
         </div>
       </div>
